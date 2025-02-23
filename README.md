@@ -1,6 +1,6 @@
 # Loan Eligibility Prediction
 
-This repository contains code and models for predicting loan eligibility using various machine learning algorithms.
+This repository contains code and models for predicting loan eligibility using various machine learning algorithms. To access Live Demo click [here](https://loanpredictionmlapp.streamlit.app/)
 ## Repository Files
 - `app.py`: Main application script.
 - `model (2).joblib`: Pre-trained model file.
